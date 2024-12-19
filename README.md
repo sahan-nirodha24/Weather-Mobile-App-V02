@@ -30,10 +30,10 @@ The all over the weather informations on this mobile app will be genarated using
 
          Screen Shots Of The Weather Moble Application Version 02 
 
-Splash Screen
+Splash Screen Of The Weather App
 ![Screenshot 2024-12-19 222853](https://github.com/user-attachments/assets/87df3924-4aa9-4fc0-86f0-636244425eaf)
 
-Default City
+Default City Is Panadura
 ![Screenshot 2024-12-19 222919](https://github.com/user-attachments/assets/0dfd6513-9688-482b-9a59-1d00cc5bf9ad)
 
 Enter The NewYork It Will Display Cloudy Animation & Dark Background In Mobile App Screen
@@ -57,3 +57,5 @@ Enter The Spain It Will Display Rainy Animation & Rainy Background In Mobile App
 Enter The Finland It Will Display snow Animation & snowy Background In Mobile App Screen
 ![Screenshot 2024-12-19 223810](https://github.com/user-attachments/assets/4f34bb50-6e50-42dc-883f-15c46d0f035d)
 
+     Video Demonstration Of The Weather Mobile Application Version 02
+  
