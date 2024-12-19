@@ -12,7 +12,7 @@ The weather app dynamically adjusts animations and backgrounds based on real-tim
 
 4) Snow: Displays a snowing animation with a snowy background.
 
-Middle Text Box section of this app including for the
+The center text box field of this app displaying the below things
 
 1) Humidity
    
