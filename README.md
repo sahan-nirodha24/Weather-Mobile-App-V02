@@ -2,26 +2,30 @@
 This mobile application leverages the OpenWeatherMap API and is built using the **MVVM architecture**, ensuring a clean and scalable code structure. It delivers real-time weather information and dynamic animations based on current weather conditions for any location worldwide.
 
 ### Features:
+
 + #### Global Weather Search:
 
   + Enter any city or country name in the search bar to view detailed weather information for that location.
-Dynamic Animations & Backgrounds:
 
-+ #### The app adjusts its visuals based on real-time weather conditions:
++ #### Dynamic Animations & Backgrounds:
 
-  1) Clouds: Cloud animations with a dark background.
-  2) Clear: Sunrise animations with a bright background.
-  3) Rain: Rain animations with a rainy background.
-  4) Snow: Snowfall animations with a snowy background.
-  5) Detailed Weather Information:
+  + The app adjusts its visuals based on real-time weather conditions:
 
-+ #### The central text box displays key weather details:
-  1) Humidity
-  2) Wind Speed
-  3) Condition 
-  4) Sunrise Time
-  5) Sunset Time
-  6) Sea Level Pressure 
+    + Clouds: Cloud animations with a dark background.
+    + Clear: Sunrise animations with a bright background.
+    + Rain: Rain animations with a rainy background.
+    + Snow: Snowfall animations with a snowy background.
+
++ #### Detailed Weather Information:
+
+  + The central text box displays key weather details:
+
+    + Humidity
+    + Wind Speed
+    + Condition 
+    + Sunrise Time
+    + Sunset Time
+    + Sea Level Pressure 
   
 + #### Accurate & Real-Time Updates:
 
